@@ -10,3 +10,5 @@ var todoSchema = new Schema({
 })
 
 var Todos = mongoose.model('Todos', todoSchema)
+
+module.exports = Todos
