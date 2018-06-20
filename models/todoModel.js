@@ -1,6 +1,6 @@
 var mongoose = require('mongoose')
 
-vas Schema = mongoose.Schema
+var Schema = mongoose.Schema
 
 var todoSchema = new Schema({
   username: String,
