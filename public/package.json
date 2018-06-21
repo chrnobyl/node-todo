@@ -1,5 +1,5 @@
 {
-  "name": "node-todo-ng",
+  "name": "node-todo",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
