@@ -4,12 +4,12 @@ import { TodoService } from './todo.service';
 
 @Component({
   selector: 'app-root',
-  template: `<h1>NodeTodo</h1>
+  template: `<h5>emils heyEMILS EMILS LOOK</h5>
   <ul>
     <li *ngFor="let todo of todos">
       {{todo.todo}} - {{todo.isDone}}
     </li>
-  <ul>`,
+  </ul>`,
   providers: [ TodoService ],
   styleUrls: ['./app.component.css']
 })
